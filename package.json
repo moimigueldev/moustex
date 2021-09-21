@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "iohook": "^0.9.3"
+    "electron": "^14.0.1",
+    "global-keypress": "^0.0.8",
+    "robotjs": "^0.6.0",
+    "tiny-timer": "^1.6.0"
   }
 }

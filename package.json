@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^14.0.1",
     "global-keypress": "^0.0.8",
     "robotjs": "^0.6.0",
     "tiny-timer": "^1.6.0"
